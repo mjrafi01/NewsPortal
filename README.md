@@ -1,2 +1,2 @@
-# NewsPortal
+# User
 Created with CodeSandbox
